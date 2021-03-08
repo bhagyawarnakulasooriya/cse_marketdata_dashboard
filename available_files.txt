@@ -1,0 +1,264 @@
+Abans Electricals PLC (ABAN.N0000)	XCOL	Housewares
+Abans Finance PLC (AFSL.N0000)	XCOL	Finance Companies
+Access Engineering PLC (AEL.N0000)	XCOL	Construction
+ACL Cables PLC (ACL.N0000)	XCOL	Industrial Electronics
+ACL Plastics PLC (APLA.N0000)	XCOL	Industrial Products
+Acme Printing & Packaging PLC (ACME.N0000)	XCOL	Containers/Packaging
+Agalawatte Plantations PLC (AGAL.N0000)	XCOL	Farming
+AgStar PLC (AGST.N0000)	XCOL	Chemicals
+Aitken Spence Hotel Holdings PLC (AHUN.N0000)	XCOL	Hotels
+Aitken Spence PLC (SPEN.N0000)	XCOL	Diversified Holding Companies
+Alliance Finance Co. PLC (ALLI.N0000)	XCOL	Finance Companies
+Alumex PLC (ALUM.N0000)	XCOL	Aluminum
+Amana Bank PLC (ABL.N0000)	XCOL	Banking
+Amana Takaful Life PLC (ATLL.N0000)	XCOL	Life Insurance
+Amana Takaful PLC (ATL.N0000)	XCOL	Full-Line Insurance
+Amaya Leisure PLC (CONN.N0000)	XCOL	Hotels
+Ambeon Capital PLC (TAP.N0000)	XCOL	Diversified Holding Companies
+Ambeon Holdings PLC (GREG.N0000)	XCOL	Finance Companies
+Anilana Hotels & Properties PLC (ALHP.N0000)	XCOL	Hotels
+Arpico Finance Co. PLC (ARPI.N0000)	XCOL	Finance Companies
+Arpico Insurance PLC (AINS.N0000)	XCOL	Life Insurance
+Asia Asset Finance PLC (AAF.N0000)	XCOL	Finance Companies
+Asia Capital PLC (ACAP.N0000)	XCOL	Hotels
+Asia Siyaka Commodities PLC (ASIY.N0000)	XCOL	Farming
+Asian Hotels & Properties PLC (AHPL.N0000)	XCOL	Hotels
+Asiri Hospital Holdings PLC (ASIR.N0000)	XCOL	Healthcare Provision
+Asiri Surgical Hospital PLC (AMSL.N0000)	XCOL	Healthcare Provision
+Associated Motor Finance Co. PLC (AMF.N0000)	XCOL	Consumer Finance
+Autodrome PLC (AUTO.N0000)	XCOL	Wholesalers
+Bairaha Farms PLC (BFL.N0000)	XCOL	Farming
+Balangoda Plantations PLC (BALA.N0000)	XCOL	Farming
+Bansei Royal Resorts Hikkaduwa PLC (BRR.N0000)	XCOL	Hotels
+Beruwala Resorts PLC (BERU.N0000)	XCOL	Hotels
+Bimputh Finance PLC (BLI.N0000)	XCOL	Finance Companies
+Blue Diamonds Jewellery Worldwide PLC (BLUE.N0000)	XCOL	Jewelry & Watches
+Blue Diamonds Jewellery Worldwide PLC Pfd. (BLUE.X0000)	XCOL	Jewelry & Watches
+Bogala Graphite Lanka PLC (BOGA.N0000)	XCOL	Coal
+Bogawantalawa Tea Estates PLC (BOPL.N0000)	XCOL	Farming
+BPPL Holdings PLC (BPPL.N0000)	XCOL	Nondurable Household Products
+Brown & Co. PLC (BRWN.N0000)	XCOL	Diversified Holding Companies
+Browns Beach Hotels PLC (BBH.N0000)	XCOL	Hotels
+Browns Investments PLC (BIL.N0000)	XCOL	Diversified Holding Companies
+Bukit Darah PLC (BUKI.N0000)	XCOL	Farming
+C M Holdings PLC (COLO.N0000)	XCOL	Specialty Retail
+C. W. Mackie PLC (CWM.N0000)	XCOL	Industrial Products
+Cargo Boat Development Co. PLC (CABO.N0000)	XCOL	Real Estate Developers
+Carson Cumberbatch PLC (CARS.N0000)	XCOL	Diversified Holding Companies
+Central Finance Co. PLC (CFIN.N0000)	XCOL	General Services
+Central Industries PLC (CIND.N0000)	XCOL	Building Materials/Products
+Ceylinco Insurance PLC (CINS.N0000)	XCOL	Full-Line Insurance
+Ceylinco Insurance PLC Pfd. (CINS.X0000)	XCOL	Full-Line Insurance
+Ceylon Beverage Holdings PLC (BREW.N0000)	XCOL	Alcoholic Beverages/Drinks
+Ceylon Cold Stores PLC (CCS.N0000)	XCOL	Non-Alcoholic Beverages/Drinks
+Ceylon Grain Elevators PLC (GRAN.N0000)	XCOL	Food Products
+Ceylon Guardian Investment Trust PLC (GUAR.N0000)	XCOL	Closed-End Funds
+Ceylon Hospitals PLC (CHL.N0000)	XCOL	Healthcare Provision
+Ceylon Hotels Corp. PLC (CHOT.N0000)	XCOL	Hotels
+Ceylon Investment PLC (CINV.N0000)	XCOL	Closed-End Funds
+Ceylon Printers PLC (CPRT.N0000)	XCOL	Printing
+Ceylon Tea Brokers PLC (CTBL.N0000)	XCOL	Securities
+Ceylon Tea Services PLC (CTEA.N0000)	XCOL	Farming
+Ceylon Tobacco Co. PLC (CTC.N0000)	XCOL	Tobacco
+Chemanex PLC (CHMX.N0000)	XCOL	Chemicals
+Chevron Lubricants Lanka PLC (LLUB.N0000)	XCOL	Chemicals
+CIC Holdings PLC (CIC.N0000)	XCOL	Chemicals
+CIC Holdings PLC Non-Vtg (CIC.X0000)	XCOL	Chemicals
+Citizens Development Business Finance PLC (CDB.N0000)	XCOL	General Services
+Citrus Leisure PLC (REEF.N0000)	XCOL	Hotels
+Coco Lanka PLC Pfd. (COCO.X0000)	XCOL	Food Products
+Colombo City Holdings PLC (PHAR.N0000)	XCOL	Drug Retail
+Colombo Dockyard PLC (DOCK.N0000)	XCOL	Water Transport/Shipping
+Colombo Fort Investments PLC (CFI.N0000)	XCOL	Closed-End Funds
+Colombo Fort Land & Building PLC (CFLB.N0000)	XCOL	Real Estate Developers
+Colombo Investment Trust PLC (CIT.N0000)	XCOL	Closed-End Funds
+Colombo Land & Development Co. PLC (CLND.N0000)	XCOL	Real Estate Developers
+Commercial Bank Of Ceylon PLC (COMB.N0000)	XCOL	Banking
+Commercial Bank of Ceylon PLC Non-Vtg (COMB.X0000)	XCOL	Banking
+Commercial Credit & Finance PLC (COCR.N0000)	XCOL	Consumer Finance
+Commercial Development Co. PLC (COMD.N0000)	XCOL	Real Estate Developers
+Commercial Leasing & Finance PLC (CLC.N0000)	XCOL	Finance Companies
+Convenience Foods Lanka PLC (SOY.N0000)	XCOL	Food Products
+CT Holdings PLC (CTHR.N0000)	XCOL	Motion Picture/Sound Recording
+CT Land Development PLC (CTLD.N0000)	XCOL	Real Estate Developers
+Dankotuwa Porcelain PLC (DPL.N0000)	XCOL	Housewares
+DFCC Bank PLC (DFCC.N0000)	XCOL	Banking
+Dialog Axiata PLC (DIAL.N0000)	XCOL	Wireless Telecommunications Services
+Dialog Finance PLC (CALF.N0000)	XCOL	Finance Companies
+Diesel & Motor Engineering PLC (DIMO.N0000)	XCOL	Specialty Retail
+Dipped Products PLC (DIPD.N0000)	XCOL	Clothing
+Distilleries Co. of Sri Lanka PLC (DIST.N0000)	XCOL	Alcoholic Beverages/Drinks
+Dolphin Hotels PLC (STAF.N0000)	XCOL	Hotels
+E.B. Creasy & Co. PLC (EBCR.N0000)	XCOL	Wholesalers
+East West Properties PLC (EAST.N0000)	XCOL	Real Estate Developers
+Eastern Merchants PLC (EMER.N0000)	XCOL	Wholesalers
+e-Channelling PLC (ECL.N0000)	XCOL	Internet/Online
+Eden Hotel Lanka PLC (EDEN.N0000)	XCOL	Hotels
+Elpitiya Plantations PLC (ELPL.N0000)	XCOL	Farming
+Equity Two PLC (ETWO.N0000)	XCOL	Real Estate Developers
+Expolanka Holdings PLC (EXPO.N0000)	XCOL	Transportation Services
+First Capital Holdings PLC (CFVF.N0000)	XCOL	Investment Advisors
+Fortress Resorts PLC (RHTL.N0000)	XCOL	Hotels
+Gestetner of Ceylon PLC (GEST.N0000)	XCOL	Computers/Consumer Electronics
+Good Hope PLC (GOOD.N0000)	XCOL	Food Products
+Guardian Capital Partners PLC (WAPO.N0000)	XCOL	Closed-End Funds
+Hapugastenne Plantations PLC (HAPU.N0000)	XCOL	Farming
+Harischandra Mills PLC (HARI.N0000)	XCOL	Food Products
+Hatton National Bank PLC (HNB.N0000)	XCOL	Banking
+Hatton National Bank PLC Non-Vtg (HNB.X0000)	XCOL	Banking
+Hatton Plantations PLC (HPL.N0000)	XCOL	Farming
+Haycarb PLC (HAYC.N0000)	XCOL	Chemicals
+Hayleys Fabric PLC (MGT.N0000)	XCOL	Clothing
+Hayleys Fibre PLC (HEXP.N0000)	XCOL	Clothing
+Hayleys PLC (HAYL.N0000)	XCOL	Diversified Holding Companies
+Hemas Holdings PLC (HHL.N0000)	XCOL	Diversified Holding Companies
+Hikkaduwa Beach Resort PLC (CITH.N0000)	XCOL	Hotels
+HNB Assurance PLC (HASU.N0000)	XCOL	Full-Line Insurance
+HNB Finance Ltd. (HNBF.N0000)	XCOL	Consumer Finance
+Horana Plantations PLC (HOPL.N0000)	XCOL	Farming
+Hotel Sigiriya PLC (HSIG.N0000)	XCOL	Hotels
+Housing Development Finance Corp. Bank of Sri Lanka (HDFC.N0000)	XCOL	Mortgages
+Hunas Falls Hotels PLC (HUNA.N0000)	XCOL	Hotels
+Hunters & Co. PLC (HUNT.N0000)	XCOL	Wholesalers
+HVA Foods PLC (HVA.N0000)	XCOL	Non-Alcoholic Beverages/Drinks
+Janashakthi Insurance Co. PLC (JINS.N0000)	XCOL	Full-Line Insurance
+Jetwing Symphony PLC (JETS.N0000)	XCOL	Hotels
+John Keells Holdings PLC (JKH.N0000)	XCOL	Diversified Holding Companies
+John Keells Hotels PLC (KHL.N0000)	XCOL	Hotels
+John Keells PLC (JKL.N0000)	XCOL	Diversified Holding Companies
+Kahawatte Plantations PLC (KAHA.N0000)	XCOL	Farming
+Keells Food Products PLC (KFP.N0000)	XCOL	Food Products
+Kegalle Plantations PLC (KGAL.N0000)	XCOL	Farming
+Kelani Cables PLC (KCAB.N0000)	XCOL	Industrial Electronics
+Kelani Tyres PLC (TYRE.N0000)	XCOL	Tires
+Kelani Valley Plantations PLC (KVAL.N0000)	XCOL	Farming
+Kelsey Developments PLC (KDL.N0000)	XCOL	Residential Building Construction
+Kingsbury PLC (SERV.N0000)	XCOL	Hotels
+Kotagala Plantations PLC (KOTA.N0000)	XCOL	Farming
+Kotmale Holdings PLC (LAMB.N0000)	XCOL	Food Products
+Lake House Printers & Publishers PLC (LPRT.N0000)	XCOL	Printing
+Lanka Aluminium Industries PLC (LALU.N0000)	XCOL	Aluminum
+Lanka Ashok Leyland PLC (ASHO.N0000)	XCOL	Commercial Vehicles
+Lanka Ceramic PLC (CERA.N0000)	XCOL	Building Materials/Products
+Lanka Hospital Corp. PLC (LHCL.N0000)	XCOL	Healthcare Provision
+Lanka IOC PLC (LIOC.N0000)	XCOL	Specialty Retail
+Lanka Realty Investments PLC (ASCO.N0000)	XCOL	Real Estate Developers
+Lanka Tiles PLC (TILE.N0000)	XCOL	Building Materials/Products
+Lanka Ventures PLC (LVEN.N0000)	XCOL	Investment Advisors
+Lanka Walltiles PLC (LWL.N0000)	XCOL	Building Materials/Products
+Lankem Ceylon PLC (LCEY.N0000)	XCOL	Chemicals
+Lankem Developments PLC (LDEV.N0000)	XCOL	Construction
+Laugfs Gas Ltd. Pfd. Non-Vtg (LGL.X0000)	XCOL	Gas Utilities
+Laugfs Gas PLC (LGL.N0000)	XCOL	Gas Utilities
+Laxapana Batteries PLC (LITE.N0000)	XCOL	Industrial Electronics
+LB Finance PLC (LFIN.N0000)	XCOL	Consumer Finance
+Lee Hedges PLC (SHAW.N0000)	XCOL	Wholesalers
+Lighthouse Hotel PLC (LHL.N0000)	XCOL	Hotels
+Lion Brewery Ceylon PLC (LION.N0000)	XCOL	Alcoholic Beverages/Drinks
+LOLC Development Finance PLC (NIFL.N0000)	XCOL	Finance Companies
+LOLC Finance PLC (LOFC.N0000)	XCOL	Finance Companies
+LOLC Holdings PLC (LOLC.N0000)	XCOL	General Services
+Lotus Hydro Power PLC (HPFL.N0000)	XCOL	Renewable Energy Generation
+LVL Energy Fund Ltd. (LVEF.N0000)	XCOL	Renewable Energy Generation
+Mackwoods Energy PLC (MEL.N0000)	XCOL	Industrial Electronics
+Madulsima Plantations PLC (MADU.N0000)	XCOL	Farming
+Mahaweli Coconut Plantations Ltd. (MCPL.N0000)	XCOL	Farming
+Mahaweli Reach Hotels PLC (MRH.N0000)	XCOL	Hotels
+Malwatte Valley Plantations PLC (MAL.N0000)	XCOL	Farming
+Malwatte Valley Plantations PLC NV (MAL.X0000)	XCOL	Farming
+Marawila Resorts PLC (MARA.N0000)	XCOL	Hotels
+Maskeliya Plantations PLC (MASK.N0000)	XCOL	Farming
+Melstacorp PLC (MELS.N0000)	XCOL	Diversified Holding Companies
+Mercantile Shipping Co. PLC (MSL.N0000)	XCOL	Water Transport/Shipping
+Merchant Bank of Sri Lanka & Finance PLC (MBSL.N0000)	XCOL	Banking
+Millennium Housing Developers PLC (MHDL.N0000)	XCOL	Real Estate Developers
+Multi Finance PLC (MFL.N0000)	XCOL	Finance Companies
+Namunukula Plantations PLC (NAMU.N0000)	XCOL	Farming
+Nation Lanka Finance PLC (CSF.N0000)	XCOL	Banking
+National Development Bank PLC (NDB.N0000)	XCOL	Banking
+Nations Trust Bank PLC (NTB.N0000)	XCOL	Banking
+Nawaloka Hospitals PLC (NHL.N0000)	XCOL	Healthcare Provision
+Nestle Lanka PLC (NEST.N0000)	XCOL	Food Products
+Nuwara Eliya Hotels Co. PLC (NEH.N0000)	XCOL	Hotels
+Odel PLC (ODEL.N0000)	XCOL	Clothing Retail
+Office Equipment PLC (OFEQ.N0000)	XCOL	Computers/Consumer Electronics
+On'ally Holdings PLC (ONAL.N0000)	XCOL	Real Estate Developers
+Orient Finance PLC (BFN.N0000)	XCOL	Finance Companies
+Palm Garden Hotels PLC (PALM.N0000)	XCOL	Hotels
+Pan Asia Banking Corp. PLC (PABC.N0000)	XCOL	Banking
+Panasian Power PLC (PAP.N0000)	XCOL	Renewable Energy Generation
+Paragon Ceylon PLC (PARA.N0000)	XCOL	Printing
+Pegasus Hotels of Ceylon PLC (PEG.N0000)	XCOL	Hotels
+People's Insurance PLC (PINS.N0000)	XCOL	Non-Life Insurance
+Peoples Leasing & Finance PLC (PLC.N0000)	XCOL	General Services
+People's Merchant Finance PLC (PMB.N0000)	XCOL	Consumer Finance
+Piramal Glass Ceylon PLC (GLAS.N0000)	XCOL	Containers/Packaging
+Prime Finance PLC (GSF.N0000)	XCOL	Consumer Finance
+Printcare PLC (CARE.N0000)	XCOL	Containers/Packaging
+Property Development PLC (PDL.N0000)	XCOL	Real Estate Developers
+Radiant Gems International PLC (RGEM.N0000)	XCOL	Jewelry & Watches
+Raigam Wayamba Salterns PLC (RWSL.N0000)	XCOL	Food Products
+Ramboda Falls PLC (RFL.N0000)	XCOL	Hotels
+Renuka Agri Foods PLC (RAL.N0000)	XCOL	Food Products
+Renuka Capital PLC (KZOO.N0000)	XCOL	Closed-End Funds
+Renuka City Hotel PLC (RENU.N0000)	XCOL	Hotels
+Renuka Foods PLC (COCO.N0000)	XCOL	Food Products
+Renuka Holdings PLC (RHL.N0000)	XCOL	Diversified Holding Companies
+Renuka Holdings PLC Pfd. (RHL.X0000)	XCOL	Diversified Holding Companies
+Renuka Hotels PLC (RCH.N0000)	XCOL	Hotels
+Resus Energy PLC (HPWR.N0000)	XCOL	Electric Utilities
+Richard Pieris & Co. PLC (RICH.N0000)	XCOL	Diversified Holding Companies
+Richard Pieris Exports PLC (REXP.N0000)	XCOL	Industrial Products
+RIL Property PLC (RIL.N0000)	XCOL	Real Estate Developers
+Royal Ceramics Lanka PLC (RCL.N0000)	XCOL	Building Materials/Products
+Royal Palms Beach Hotels PLC (RPBH.N0000)	XCOL	Hotels
+Sampath Bank PLC (SAMP.N0000)	XCOL	Banking
+Samson International PLC (SIL.N0000)	XCOL	Industrial Products
+Sanasa Development Bank PLC (SDB.N0000)	XCOL	Banking
+Sathosa Motors PLC (SMOT.N0000)	XCOL	Specialty Retail
+Selinsing PLC (SELI.N0000)	XCOL	Farming
+Serendib Engineering Group PLC (IDL.N0000)	XCOL	Technical Services
+Serendib Hotels PLC (SHOT.N0000)	XCOL	Hotels
+Serendib Hotels PLC Pfd. (SHOT.X0000)	XCOL	Hotels
+Serendib Land PLC (SLND.N0000)	XCOL	Real Estate Developers
+Seylan Bank PLC (SEYB.N0000)	XCOL	Banking
+Seylan Bank PLC Non-Vtg (SEYB.X0000)	XCOL	Banking
+Seylan Developments PLC (CSD.N0000)	XCOL	Real Estate Developers
+Sierra Cables PLC (SIRA.N0000)	XCOL	Industrial Electronics
+Sigiriya Village Hotels PLC (SIGV.N0000)	XCOL	Hotels
+Singhe Hospitals PLC (SINH.N0000)	XCOL	Healthcare Provision
+Sinhaputhra Finance PLC (SFL.N0000)	XCOL	Finance Companies
+SMB Leasing PLC (SEMB.N0000)	XCOL	Consumer Finance
+SMB Leasing PLC (SEMB.X0000)	XCOL	Consumer Finance
+Softlogic Capital PLC (SCAP.N0000)	XCOL	Finance Companies
+Softlogic Finance PLC (CRL.N0000)	XCOL	Finance Companies
+Softlogic Holdings PLC (SHL.N0000)	XCOL	Software
+Softlogic Life Insurance PLC (AAIC.N0000)	XCOL	Life Insurance
+Sri Lanka Telecom PLC (SLTL.N0000)	XCOL	Wired Telecommunications Services
+Standard Capital PLC (SING.N0000)	XCOL	Chemicals
+Sunshine Holdings PLC (SUN.N0000)	XCOL	Tourism
+Swadeshi Industrial Works PLC (SWAD.N0000)	XCOL	Personal Care Products/Appliances
+Tal Lanka Hotels PLC (TAJ.N0000)	XCOL	Hotels
+Talawakelle Tea Estates PLC (TPL.N0000)	XCOL	Farming
+Tangerine Beach Hotels PLC (TANG.N0000)	XCOL	Hotels
+Tea Smallholder Factories PLC (TSML.N0000)	XCOL	Non-Alcoholic Beverages/Drinks
+TeeJay Lanka PLC (TJL.N0000)	XCOL	Clothing
+Tess Agro PLC (TESS.N0000)	XCOL	Food Products
+The Indo-Malay PLC (INDO.N0000)	XCOL	Farming
+Three Acre Farms PLC (TAFL.N0000)	XCOL	Farming
+Tokyo Cement Co. Lanka PLC (TKYO.N0000)	XCOL	Building Materials/Products
+Tokyo Cement Co. Lanka PLC Non-Vtg (TKYO.X0000)	XCOL	Building Materials/Products
+Trans Asia Hotels PLC (TRAN.N0000)	XCOL	Hotels
+Udapussellawa Plantations PLC (UDPL.N0000)	XCOL	Farming
+Union Assurance PLC (UAL.N0000)	XCOL	Life Insurance
+Union Bank of Colombo PLC (UBC.N0000)	XCOL	Banking
+Union Chemicals Lanka PLC (UCAR.N0000)	XCOL	Chemicals
+Unisyst Engineering PLC (ALUF.N0000)	XCOL	Building Materials/Products
+United Motors Lanka PLC (UML.N0000)	XCOL	Specialty Retail
+Vallibel Finance PLC (VFIN.N0000)	XCOL	Finance Companies
+Vallibel One PLC (VONE.N0000)	XCOL	Diversified Holding Companies
+Vallibel Power Erathna PLC (VPEL.N0000)	XCOL	Renewable Energy Generation
+Vidullanka PLC (VLL.N0000)	XCOL	Renewable Energy Generation
+Waskaduwa Beach Resort PLC (CITW.N0000)	XCOL	Hotels
+Watawala Plantations PLC (WATA.N0000)	XCOL	Farming
+York Arcade Holdings PLC (YORK.N0000)	XCOL	Real Estate Developers

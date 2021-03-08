@@ -1,0 +1,14 @@
+Cargills PLC (CARG.N0000)	XCOL	Food Retail
+Ceylon Hospitals PLC (CHL.X0000)	XCOL	Healthcare Provision
+Galadari Hotels PLC (GHLL.N0000)	XCOL	Hotels
+Industrial Asphalts PLC (ASPH.N0000)	XCOL	Building Materials/Products
+Kandy Hotels Co. PLC (KHC.N0000)	XCOL	Hotels
+Lanka Milk Foods PLC (LMF.N0000)	XCOL	Food Products
+Muller & Phipps PLC (MULL.N0000)	XCOL	Drug Retail
+Overseas Realty PLC (OSEA.N0000)	XCOL	Real Estate Developers
+Regnis PLC (REG.N0000)	XCOL	Housewares
+Shalimar PLC (SHAL.N0000)	XCOL	Farming
+Singer PLC (SINS.N0000)	XCOL	Housewares
+Singer Finance PLC (SFIN.N0000)	XCOL	General Services
+Singer Industries PLC (SINI.N0000)	XCOL	Housewares
+Swisstek PLC (PARQ.N0000)	XCOL	Building Materials/Products
