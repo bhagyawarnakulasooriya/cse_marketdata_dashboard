@@ -148,7 +148,7 @@ conn = pyodbc.connect(
 cursor = conn.cursor()
 
 cursor.execute('''
-                DELETE FROM TestDB.dbo.Market_data_test
+                DELETE FROM CSEDB.dbo.Market_data_test
                ''')
 
 for row in df.itertuples(index=True, name='Pandas'):
